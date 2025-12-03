@@ -3,7 +3,7 @@
 <div align="center">
 <!-- <img src="assets/icons/app_icon.png" alt="M O S A Logo" width="150" height="150"/> -->
   
-![M O S A Logo](https://img.shields.io/badge/M_O_S_A-Cryptography-00D4AA?style=for-the-badge&logo=flutter&logoColor=white)
+![Scarab](https://img.shields.io/badge/Scarab-00D4AA?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Comprehensive Cryptography Learning & Tooling App with Interactive Visualizations**
 
