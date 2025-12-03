@@ -1,4 +1,4 @@
-# 🔐 M O S A Cryptography
+# 🔐 Scarab
 
 <div align="center">
 <!-- <img src="assets/icons/app_icon.png" alt="M O S A Logo" width="150" height="150"/> -->
@@ -24,7 +24,7 @@
 
 ### 📲 **Get the Latest Release**
 
-You can download the latest version of **M O S A Cryptography** below 👇
+You can download the latest version of **Scarab** below 👇
 
 [![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/cryptography-app/releases)
 
@@ -39,13 +39,13 @@ Or visit the **[Releases](https://github.com/M0SAD67/cryptography-app/releases)*
 1. Download the `.apk` file from the link above.  
 2. Open the file on your Android device.  
 3. Allow installation from unknown sources (if prompted).  
-4. Launch **M O S A Cryptography** and start encrypting!
+4. Launch **Scarab** and start encrypting!
 
 ---
 
 ## 🎯 Overview
 
-**M O S A Cryptography** is a powerful educational and utility app built with Flutter, designed to demystify cryptographic algorithms. It offers detailed step-by-step visualizations, secure key generation, and a modern, user-friendly interface.
+**Scarab** is a powerful educational and utility app built with Flutter, designed to demystify cryptographic algorithms. It offers detailed step-by-step visualizations, secure key generation, and a modern, user-friendly interface.
 
 ### ✨ Key Features
 
