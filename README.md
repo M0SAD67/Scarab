@@ -26,7 +26,7 @@
 
 You can download the latest version of **Scarab** below 👇
 
-[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/cryptography-app/releases)
+[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/Scarab/releases/download/V1.0.0/Scarab.apk)
 
 
 Or visit the **[Releases](https://github.com/M0SAD67/cryptography-app/releases)** page to see all available versions.
