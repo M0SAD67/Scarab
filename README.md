@@ -209,6 +209,21 @@ cryptography-app/
 ---
 
 ## 🎨 Screenshots
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/home.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/text_page.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/side_panel.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/algorithms.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo2.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/history.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result_for_history.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/solution_method.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting.png" alt="Scarab" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting 2.png" alt="Scarab" width="150" height="150"/>
+
+
 
 ### Home Screen
 - Categorized algorithms
