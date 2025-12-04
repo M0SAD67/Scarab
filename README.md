@@ -216,7 +216,7 @@ cryptography-app/
 <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/home.png" alt="Home Screen" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/side_panel.png" alt="Side Panel" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/text_page.png" alt="Text Page" width="250"/>
 
 ### Algorithms Selection
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/algorithms.png" alt="Algorithms" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo.png" alt="More Algorithms" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo2.png" alt="More Algorithms 2" width="250"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/algo.png" alt="Algorithms" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo2.png" alt="More Algorithms" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo3.png" alt="More Algorithms 2" width="250"/>
 
 ### Results & History
 <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result.png" alt="Result" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/history.png" alt="History" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result_for_history.png" alt="History Result" width="250"/>
