@@ -284,7 +284,7 @@ in the Software without restriction...
 
 If you encounter an issue or have a suggestion:
 
-- Open an [Issue](https://github.com/M0SAD67/cryptography-app/issues) on GitHub
+- Open an [Issue](https://github.com/M0SAD67/Scarab/issues) on GitHub
 - Email me at [mhmdaldhshwry280@gmail.com](mailto:mhmdaldhshwry280@gmail.com)
 
 ---
