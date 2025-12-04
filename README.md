@@ -209,35 +209,22 @@ cryptography-app/
 ---
 
 ## 🎨 Screenshots
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/home.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/text_page.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/side_panel.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/algorithms.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo2.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/history.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result_for_history.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/solution_method.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting.png" alt="Scarab" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting 2.png" alt="Scarab" width="150" height="150"/>
 
+<div align="center">
 
+### Home & Navigation
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/home.png" alt="Home Screen" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/side_panel.png" alt="Side Panel" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/text_page.png" alt="Text Page" width="250"/>
 
-### Home Screen
-- Categorized algorithms
-- Modern Material 3 Design
-- Dark/Light mode support
+### Algorithms Selection
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/algorithms.png" alt="Algorithms" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo.png" alt="More Algorithms" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/more_algo2.png" alt="More Algorithms 2" width="250"/>
 
-### Visualization
-- Interactive Playfair matrix
-- Detailed Vigenère table
-- Step-by-step RSA math
+### Results & History
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result.png" alt="Result" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/history.png" alt="History" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/result_for_history.png" alt="History Result" width="250"/>
 
-### History
-- Organized list with badges
-- Detailed inspection sheet
+### Solution Method & Settings
+<img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/solution_method.png" alt="Solution Method" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting.png" alt="Settings" width="250"/> <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/ScreenShot/setting 2.png" alt="Settings 2" width="250"/>
+
+</div>
 
 ---
 
