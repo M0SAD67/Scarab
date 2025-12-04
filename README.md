@@ -1,7 +1,7 @@
 # 🔐 Scarab
 
 <div align="center">
-<!-- <img src="assets/icons/app_icon.png" alt="M O S A Logo" width="150" height="150"/> -->
+ <img src="https://raw.githubusercontent.com/M0SAD67/Scarab/refs/heads/main/assets/icon/app.png" alt="M O S A Logo" width="150" height="150"/>
   
 ![Scarab](https://img.shields.io/badge/Scarab-00D4AA?style=for-the-badge&logo=flutter&logoColor=white)
 
