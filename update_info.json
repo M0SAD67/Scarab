@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.1.0",
   "force_update": false,
-  "download_url": "https://github.com/M0SAD67/Scarab/releases/download/V1.0.0/Scarab.apk",
-  "release_notes": "New features and bug fixes."
+  "download_url": "https://github.com/M0SAD67/Scarab/releases/download/V1.1.0/Scarab_V1.1.0.apk",
+  "release_notes": "🚀 v1.1.0 Update:\n\n• 🔄 Smart In-App Update System: Download and install updates directly within the app.\n• 📜 Enhanced History: Collapsible filters and persistent settings.\n• 🎨 Modern UI: New update dialog and polished visuals.\n• 🐛 Bug fixes and performance improvements."
 }
