@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.5",
+  "latest_version": "1.1.7",
   "force_update": false,
-  "download_url": "https://github.com/M0SAD67/Scarab/releases/download/V1.1.5/Scarab_V1.1.5.apk",
-  "release_notes": "🔐 v1.1.5 Update:\n\n• 🔓 Complete AES Decryption with step-by-step visualization\n• 📊 Redesigned AES structure with academic-style diagrams\n• ⚙️ Auto-check updates toggle & About Developer section\n• 🌍 Added 'View Structure' localization (EN/AR)\n• 🛠️ Fixed RTL/LTR issues & code improvements"
+  "download_url": "https://github.com/M0SAD67/Scarab/releases/download/V1.1.7/Scarab_V1.1.7.apk",
+  "release_notes": "🔐 v1.1.7 Update:\n\n• 🔓 Complete AES Decryption with step-by-step visualization\n• 📊 Redesigned AES structure with academic-style diagrams\n• ⚙️ Auto-check updates toggle & About Developer section\n• 🌍 Added 'View Structure' localization (EN/AR)\n• 🛠️ Fixed RTL/LTR issues & code improvements"
 }
