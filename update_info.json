@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.7",
+  "latest_version": "1.1.9",
   "force_update": false,
-  "download_url": "https://github.com/M0SAD67/Scarab/releases/download/V1.1.7/Scarab_V1.1.7.apk",
-  "release_notes": "🔐 v1.1.7 Update:\n\n• ⏩ Skip Button on Splash Screen\n• 🔒 Remote Device Blocking System\n• 🛠️ Fixed RTL/LTR issues & code improvements"
+  "download_url": "https://github.com/M0SAD67/Scarab/releases/download/V1.1.9/Scarab_V1.1.9.apk",
+  "release_notes": "🔐 v1.1.9 Update:\n\n• Support Arabic For encryption & decryption \n• 🛠️ Fixed Solution method for Playfair"
 }
